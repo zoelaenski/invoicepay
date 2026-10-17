@@ -1,0 +1,24 @@
+{
+  "name": "invoicepay",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "PayBox plugin: let an AI agent pay a merchant invoice in USDC on Solana, then verify on-chain that it arrived.",
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/server": "2.0.0",
+    "@solana/spl-token": "0.4.14",
+    "@solana/web3.js": "1.98.4",
+    "zod": "4.4.3"
+  },
+  "devDependencies": {
+    "@types/node": "24.12.2",
+    "ajv": "8.20.0",
+    "esbuild": "0.28.2",
+    "tsx": "4.23.12",
+    "typescript": "5.9.3"
+  }
+}
