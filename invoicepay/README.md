@@ -83,5 +83,5 @@ Memo matching, other stablecoins and chains, partial and recurring payments.
 
 ## Demo
 
-Demo video: _add link_
-Example payment on Solscan: _add link_
+Demo video: https://x.com/zoelaenskai_/status/2111557412964778168
+Example payment on Solscan: https://solscan.io/tx/3k38ZfXZn8t3ZrHdpoqzEfkg713yzTSGGiEBbA6WJnNat9NwXNTkvkrh9UL2N2kqUHikfxQ1DCEEkYtQzBS3mB5U
